@@ -56,8 +56,9 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="home.html">Home</a></li>
-                <li><a href="project.html">Project</a></li>
+                <li><a href="home.php">Home</a></li>
+                <li><a href="project.php">Project</a></li>
+                <li><a href="contact.php">Contact</a></li>
                 <li><a href="http://potomaclocal.com/2017/04/30/transitioning-military-members-graduate-uncommon-coders-boot-camp-woodbridge">Discussion of our App!</a></li>
                 <li><a href="http://whatsupwoodbridge.com/10-veterans-celebrate-graduation-novas-uncommon-coders-program">Graduation</a></li>
             </ul>
@@ -66,7 +67,11 @@
 </nav>
 
 <div class="container-fluid bg-1 text-center">
-    <h3>Projects</h3>
+    <h3>
+        <?php
+       echo "Projects";
+           ?>
+           </h3>
     <video width="500" height="400" controls>
         <source src="IMG_1176.mov" type="video/mp4">
 
