@@ -72,7 +72,7 @@
         <?php
        echo "Who Am I?</h3>";
        ?>
-    <img src="IMG_1199.jpg"    class="img-circle" alt="Img" width="350" height="350">
+    <img src="IMG_1199.jpg" class="img-circle" alt="Img" width="350" height="350">
     <h3>
         <?php
         echo "I am passionate!!";
@@ -107,15 +107,15 @@
     <div class="row">
         <div class="col-sm-4">
 
-            <img src="IMG_1178.jpg"   class="img-responsive" style="width:100%" alt="Image">
+            <img src="IMG_1178.jpg" class="img-responsive" style="width:100%" alt="Image">
         </div>
         <div class="col-sm-4">
 
-            <img src="IMG_11892.jpg"  class="img-responsive" style="width:100%" alt="Image" >
+            <img src="IMG_11892.jpg" class="img-responsive" style="width:100%" alt="Image" >
         </div>
         <div class="col-sm-4">
 
-            <img src="IMG_1212.jpg"  class="img-responsive" style="width:100%" alt="Image">
+            <img src="IMG_1212.jpg" class="img-responsive" style="width:100%" alt="Image">
         </div>
     </div>
 </div>
